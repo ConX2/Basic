@@ -14,7 +14,7 @@ public class BasicOrdem {
     for (int i = 0; i < ordem.length; i++)
     {
         System.out.println("Please enter number");
-        ordem[i] = input.nextDouble();
+        //ordem[i] = input.nextDouble();
     }
     
 }
