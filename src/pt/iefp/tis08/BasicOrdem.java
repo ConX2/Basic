@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Pedro
+ * @author César Freire
  * @serial 20150909
  */
 public class BasicOrdem {
